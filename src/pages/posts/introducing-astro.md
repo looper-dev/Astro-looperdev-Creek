@@ -1,5 +1,5 @@
 ---
-title: "Introducing Astro: Ship Less JavaScript"
+title: "สอนสร้าง แลนดิ้ง เพจ ด้วย firebase โดเมนฟรี"
 description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
 pubDate: "2021-06-08"
 hero: "/images/introducing-astro.jpg"
