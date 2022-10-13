@@ -3,7 +3,7 @@ title: "เครื่องมือ SEO สำหรับ สายเทา
 pubDate: "2022-01-28"
 slug: "how-to-compare-dates-in-javascript"
 description: "How to compare dates in JavaScript natively using the Date Object, without using any third-party libraries."
-hero: "[/images/javascript-logo-banner.jpg](https://digitalmarketingtechie.com/wp-content/uploads/2018/12/seo-tools-digital-marketing-tips.png)"
+hero: "/images/seo-tools-digital-marketing.png"
 tags: ["เครื่องมือseo"]
 layout: "../../layouts/BlogPostLayout.astro"
 ---
